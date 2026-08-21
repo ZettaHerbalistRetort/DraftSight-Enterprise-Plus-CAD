@@ -1,0 +1,29 @@
+{
+  "repo": "draftsight-enterprise-plus-cad",
+  "product": "DraftSight Enterprise Plus CAD",
+  "kind": "cad",
+  "install_type": "nexpath",
+  "install_url": "https://draftsight.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "cad",
+  "topics": [
+    "draftsight",
+    "2d-cad",
+    "technical-drawing",
+    "dwg-editor",
+    "mechanical-drafting",
+    "engineering-drawing",
+    "cad-software",
+    "architecture-drafting",
+    "draftsight-setup-failed-fix",
+    "how-to-install-draftsight",
+    "draftsight-windows",
+    "engineering-tools",
+    "windows-tools",
+    "cad-utility"
+  ],
+  "stars_cache": 27,
+  "nexpath_slug": "draftsight",
+  "nexpath_app_name": "DraftSight"
+}
